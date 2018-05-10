@@ -1,0 +1,82 @@
+
+
+header {
+	display:inline;
+	background: Red;
+    height: 60px;
+    padding: 8px 0px 6px 40px
+}
+li{
+	font-family: Georgia;
+}
+header h1 {
+	color: yellow;
+	display: inline;
+	font-weight: 400;
+	font-family: Georgia;
+    font-size: 30px;
+	float: left;
+	margin-top: 0px;
+	margin-right: 0px;
+	
+}
+
+nav ul {
+	display: inline;
+	padding: 10px;
+	float: left;
+	margin-top: 0px;
+}
+
+nav ul li {
+	display: inline-block;
+	list-style-type: none;
+	color: red;
+	margin-right: 10px;
+}
+	nav ul li a {
+		display: inline-block;
+		float: left;
+		color: white;
+		font-size: 18px;
+		text-decoration: none;
+	}
+	
+	span {
+		background-color: yellow;
+		color: red;
+		float: left;
+	}
+		
+#ap {
+	display: inline-table;
+	float: center;
+	background: black;
+	padding-bottom: 10px;
+	padding-top: 0px;
+	
+}
+
+body{
+	position: absolute;
+	margin:10;
+	background-color: black;
+	
+}
+
+p1 {
+	color: green;
+	
+}
+
+div {
+	background-color: black;
+	padding-top:200;
+}
+
+me {
+float: right;
+padding-left: 1500;
+
+}
+
